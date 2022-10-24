@@ -1,3 +1,5 @@
+<img src="github-header-image.png" alt="Alt text" title="Header saying Hi I'm Dr Jac, Software Engineer, with a picture of a cartoon cat holding a laptop">
+
 - 👋 Hi, I’m @JacDoesJS, and I started learning to code seriously in January 2022 and I absolutely love it!
 - 👀 For over 17 years, I've enjoyed a music portfolio career as violinist, teacher, composer, and conductor.
 - 🌱 I’m a trainee software engineer enthusiastically learning as much as possible about JavaScript, Java, HTML & CSS (and PHP in my spare time)
@@ -8,7 +10,6 @@
 - 💞️ I’m looking to collaborate with other newish / intermediate coders.
 - 📫 How to reach me https://jacdoesjavascript.wordpress.com  and jac.mckeigue@outlook.com
 
-![Header]([github-header-image.png])
 
 <!---
 JacDoesJS/JacDoesJS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
