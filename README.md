@@ -8,6 +8,8 @@
 - 💞️ I’m looking to collaborate with other newish / intermediate coders.
 - 📫 How to reach me https://jacdoesjavascript.wordpress.com  and jac.mckeigue@outlook.com
 
+![Header](./[github-header-image])
+
 <!---
 JacDoesJS/JacDoesJS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
