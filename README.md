@@ -1,7 +1,7 @@
 <img src="header-j.png" alt="Alt text" title="Header saying Hi I'm Dr Jac, Software Engineer, with a picture of a cartoon cat holding a laptop">
 
 - 👋 Hi, I’m @JacDoesJS, and I started learning to code seriously in January 2022 and I absolutely love it!
-- 👀 For over 17 years, I've enjoyed a music portfolio career as violinist, teacher, composer, and conductor.
+- 👀 For over 17 years, I've enjoyed a music portfolio career as violinist, teacher, composer (PhD), and conductor.
 - 🌱 I’m a trainee software engineer enthusiastically learning as much as possible about JavaScript, Java, HTML & CSS (and PHP in my spare time)
 
 
