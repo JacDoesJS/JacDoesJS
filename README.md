@@ -5,7 +5,7 @@
 - 🌱 I’m a trainee software engineer enthusiastically learning as much as possible about JavaScript, Java, HTML & CSS (and PHP in my spare time)
 
 
-##              "Am I testing my code, or is it testing me?
+##              "Am I testing my code, or is it testing me?"
 
 - 💞️ I’m looking to collaborate with other newish / intermediate coders.
 - 📫 How to reach me https://jacdoesjavascript.wordpress.com  and jac.mckeigue@outlook.com
