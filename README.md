@@ -11,8 +11,8 @@
 - 📫 How to reach me https://jacdoesjavascript.wordpress.com  and jac.mckeigue@outlook.com
 <br>
 
-<img src="explorer.png" width=200>
-<img src="Agileexp.jpg" width=250>
+<img src="explorer.png" width=200><img src="Agileexp.jpg" width=250>
+
 
 make your own banner here...
 https://leviarista.github.io/github-profile-header-generator/
