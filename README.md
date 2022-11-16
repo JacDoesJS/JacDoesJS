@@ -12,7 +12,7 @@
 <br>
 
 <img src="explorer.png" width=200>
-<img src="agileexp.jpg" width=200>
+<img src="Agileexp.jpg" width=200>
 
 make your own banner here...
 https://leviarista.github.io/github-profile-header-generator/
