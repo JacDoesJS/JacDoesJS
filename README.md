@@ -7,12 +7,13 @@
 
 ##              "Am I testing my code, or is it testing me?"
 
-- 💞️ I’m looking to collaborate with other newish / intermediate coders.
+- 💞️ I’m looking to collaborate with other intermediate coders.
 - 📫 How to reach me https://jacdoesjavascript.wordpress.com  and jac.mckeigue@outlook.com
 <br>
 
 <img src="explorer.png" width=200><img src="Agileexp.jpg" width=250>
 
+https://www.codewars.com/users/JacMcK/badges/large
 
 make your own banner here...
 https://leviarista.github.io/github-profile-header-generator/
