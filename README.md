@@ -16,7 +16,7 @@
 #          "Am I testing my code, or is it testing me?"
 <br>
 
-#### 💞️ I’m looking to collaborate with other intermediate coders.
+#### 💞️ I’m looking to collaborate with other coders of any level.
 #### 📫 How to reach me https://jacdoesjavascript.wordpress.com  and jac.mckeigue@outlook.com
 <br>
 
