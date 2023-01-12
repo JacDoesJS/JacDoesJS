@@ -9,7 +9,7 @@
 ### [Repository containing all Digital Futures Assessed Work](https://github.com/JacDoesJS/Digital-Futures)
 ### [Pre-Academy projects](https://github.com/JacDoesJS/pre-Academy-work)
 ### [Academy Full Stack Team Engineering Project](https://github.com/SE-group-3-group-project)
-(The README for our team engineering project is in the Frontend folder.)
+(There are two READMEs for our team engineering project: one in the frontend and one in the backend folder.)
 <br>
 <br>
 
