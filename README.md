@@ -26,8 +26,7 @@
 <br>
 ### I also love doing the challenges on Codewars - https://www.codewars.com/users/JacMcK/badges/large
 
-#### make your own banner here...
-https://leviarista.github.io/github-profile-header-generator/
+I made my banner with guidance from... https://leviarista.github.io/github-profile-header-generator/
 
 <!---
 JacDoesJS/JacDoesJS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
