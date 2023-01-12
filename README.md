@@ -7,6 +7,7 @@
 ## [Repository containing all Digital Futures Assessed Work](https://github.com/JacDoesJS/Digital-Futures)
 ## [pre-Academy projects](https://github.com/JacDoesJS/pre-Academy-work)
 ## [Academy Full Stack Team Engineering Project](https://github.com/SE-group-3-group-project)
+The README for team engineering project is in the Frontend folder.
 <br>
 ### I love doing the challenges on Codewars - https://www.codewars.com/users/JacMcK/badges/large
 
