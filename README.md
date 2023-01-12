@@ -3,6 +3,10 @@
 ### 👋 Hi, I’m Dr Jac, and I started learning to code seriously in January 2022 and I absolutely love it!
 ### 👀 For over 17 years, I've enjoyed a music portfolio career as violinist, teacher, composer (PhD), and conductor.
 ### 🌱 I’m a trainee software engineer enthusiastically learning as much as possible about JavaScript, React, node.js, Java, HTML, CSS (tailwind & bootstrap) and PHP in my spare time.
+
+## [Repository containing all Digital Futures Assessed Work](https://github.com/JacDoesJS/Digital-Futures)
+## [pre-Academy projects](https://github.com/JacDoesJS/pre-Academy-work)
+<br>
 ### I love doing the challenges on Codewars - https://www.codewars.com/users/JacMcK/badges/large
 
 #          "Am I testing my code, or is it testing me?"
@@ -11,7 +15,7 @@
 #### 📫 How to reach me https://jacdoesjavascript.wordpress.com  and jac.mckeigue@outlook.com
 <br>
 
-### on my recent 12-week intensive training, I also took these additional courses
+### while training with Digital Futures Academy, I also took these additional courses
 <img src="explorer.png" width=200><img src="Agileexp.jpg" width=250>
 
 #### make your own banner here...
