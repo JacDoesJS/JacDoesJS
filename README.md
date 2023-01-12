@@ -4,21 +4,27 @@
 ### 👀 For over 17 years, I've enjoyed a music portfolio career as violinist, teacher, composer (PhD), and conductor.
 ### 🌱 I’m a trainee software engineer enthusiastically learning as much as possible about JavaScript, React, node.js, Java, HTML, CSS (tailwind & bootstrap) and PHP in my spare time.
 
-## [Repository containing all Digital Futures Assessed Work](https://github.com/JacDoesJS/Digital-Futures)
-## [pre-Academy projects](https://github.com/JacDoesJS/pre-Academy-work)
-## [Academy Full Stack Team Engineering Project](https://github.com/SE-group-3-group-project)
-The README for our team engineering project is in the Frontend folder.
 <br>
-### I love doing the challenges on Codewars - https://www.codewars.com/users/JacMcK/badges/large
+
+### [Repository containing all Digital Futures Assessed Work](https://github.com/JacDoesJS/Digital-Futures)
+### [Pre-Academy projects](https://github.com/JacDoesJS/pre-Academy-work)
+### [Academy Full Stack Team Engineering Project](https://github.com/SE-group-3-group-project)
+(The README for our team engineering project is in the Frontend folder.)
+<br>
+<br>
 
 #          "Am I testing my code, or is it testing me?"
+<br>
 
 #### 💞️ I’m looking to collaborate with other intermediate coders.
 #### 📫 How to reach me https://jacdoesjavascript.wordpress.com  and jac.mckeigue@outlook.com
 <br>
 
+
 ### while training with Digital Futures Academy, I also took these additional courses
 <img src="explorer.png" width=200><img src="Agileexp.jpg" width=250>
+<br>
+### I also love doing the challenges on Codewars - https://www.codewars.com/users/JacMcK/badges/large
 
 #### make your own banner here...
 https://leviarista.github.io/github-profile-header-generator/
