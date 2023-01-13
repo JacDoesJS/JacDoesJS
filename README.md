@@ -28,7 +28,7 @@
 <br>
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=JacDoesJS&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JacDoesJS&langs_count=5&theme=tokyonight)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/JacDoesJS&langs_count=5&theme=tokyonight)]()
 
 
 I made my banner with guidance from... https://leviarista.github.io/github-profile-header-generator/
