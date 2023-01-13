@@ -25,6 +25,12 @@
 <img src="explorer.png" width=200><img src="Agileexp.jpg" width=250>
 <br>
 ### I also love doing the challenges on Codewars - https://www.codewars.com/users/JacMcK/badges/large
+<br>
+
+## 1. GitHub Stats
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Tanu-N-Prabhu&show_icons=true)
+<br>
 
 I made my banner with guidance from... https://leviarista.github.io/github-profile-header-generator/
 
