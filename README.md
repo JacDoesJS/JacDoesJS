@@ -27,7 +27,7 @@
 ### I also love doing the challenges on Codewars - https://www.codewars.com/users/JacMcK/badges/large
 <br>
 
-
+[![Dr Jac's GitHub stats](https://github-readme-stats.vercel.app/api?username=JacDoesJS)](https://github.com/JacDoesJS/github-readme-stats)
 
 I made my banner with guidance from... https://leviarista.github.io/github-profile-header-generator/
 
