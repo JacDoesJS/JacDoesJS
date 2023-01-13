@@ -27,10 +27,7 @@
 ### I also love doing the challenges on Codewars - https://www.codewars.com/users/JacMcK/badges/large
 <br>
 
-## 2. Most Used Languages
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanu-N-Prabhu&theme=blue-green)
-<br>
 
 I made my banner with guidance from... https://leviarista.github.io/github-profile-header-generator/
 
