@@ -26,6 +26,8 @@
 <br>
 ### I also love doing the challenges on Codewars - https://www.codewars.com/users/JacMcK/badges/large
 <br>
+### my latest upskilling certificate
+<img src="testcafe.jpg" width=500>
 
 
 I made my banner with guidance from... https://leviarista.github.io/github-profile-header-generator/
