@@ -26,7 +26,8 @@
 <br>
 ### I also love doing the challenges on Codewars - https://www.codewars.com/users/JacMcK/badges/large
 <br>
-### my latest upskilling certificate
+
+### latest upskilling certificate
 <img src="testcafe.jpg" width=500>
 
 
