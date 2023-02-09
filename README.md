@@ -2,7 +2,7 @@
 
 ### 👋 Hi, I’m Dr Jac, and I started learning to code seriously in January 2022 and I absolutely love it!
 ### 👀 For over 17 years, I've enjoyed a music portfolio career as violinist, teacher, composer (PhD), and conductor.
-### 🌱 I’m a trainee software engineer enthusiastically learning as much as possible about JavaScript, React, node.js, Java, HTML, CSS (tailwind & bootstrap) and PHP in my spare time. More recently I have been learning about Typescript, Backstop Visual Regression Testing, Docker & Kubernetes, and TestCafe.
+### 🌱 I’m a trainee software engineer enthusiastically learning as much as possible about JavaScript, React, Node.js, Next.js, Java, HTML, CSS, and PHP in my spare time. More recently I have been learning about Typescript, Next.js, Redux, Backstop Visual Regression Testing, Docker & Kubernetes, TestCafe, and Jira.
 
 <br>
 
