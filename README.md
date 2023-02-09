@@ -28,7 +28,7 @@
 <br>
 
 ### latest upskilling certificates
-<img src="testcafe.jpg" width=500>  <img src="Jira.jpg" width=500>
+<img src="testcafe.jpg" width=400><img src="Jira.jpg" width=400>
 
 
 I made my banner with guidance from... https://leviarista.github.io/github-profile-header-generator/
