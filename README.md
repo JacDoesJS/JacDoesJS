@@ -1,9 +1,10 @@
 <img src="header-j.png" alt="Alt text" title="Header saying Hi I'm Dr Jac, Software Engineer, with a picture of a cartoon cat holding a laptop">
 
-### 👋 Hi, I’m Dr Jac, and I started learning to code seriously in January 2022 and I absolutely love it!
+### 👋 Hi, I’m Dr Jac and I love organisation in code, music, and weaving.
 ### 👀 For over 17 years, I've enjoyed a music portfolio career as violinist, teacher, composer (PhD), and conductor.
 ### 🌱 I’m a junior software engineer enthusiastically learning as much as possible about JavaScript, React, Node.js, Next.js, Typescript, Java, Spring Boot, DynamoDB, and HTML, SCSS, CSS. More recently I have been learning about React Native, Backstop Visual Regression Testing, Docker & Kubernetes, TestCafe, and Gauge.
 ### In my current role I have signed up to be an accessibility ally.
+### In my spare time I walk, weave, make music, and continue to study the Tai Chi form.
 
 <br>
 
