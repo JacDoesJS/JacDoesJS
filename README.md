@@ -2,9 +2,9 @@
 
 ### 👋 Hi, I’m Dr Jac and I love organisation in code, music, and weaving.
 ### 👀 For over 17 years, I've enjoyed a music portfolio career as violinist, teacher, composer (PhD), and conductor.
-### 🌱 I’m a junior software engineer enthusiastically learning as much as possible about JavaScript, React, React Native, Postman, Node.js, Next.js, Typescript, Java, Spring Boot, DynamoDB, PostgresSQL, Swagger, and HTML, SCSS, CSS. More recently I have been learning about accessibility and cyber security concerns.
+### 🌱 I’m a junior software engineer enthusiastically learning as much as possible about JavaScript, React, React Native, Postman, Node.js, Next.js, Typescript, Java, Spring Boot, Kubernetes, DynamoDB, PostgresSQL, Swagger, and HTML, SCSS, CSS.
 ### In my current role I have signed up to be an accessibility ally.
-### In my spare time I walk, weave, make music, and continue to study the Tai Chi form.
+### In my spare time I walk, weave, make music, and enjoy Scottish dancing.
 
 <br>
 
