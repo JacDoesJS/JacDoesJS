@@ -1,10 +1,11 @@
 <img src="header-j.png" alt="Alt text" title="Header saying Hi I'm Dr Jac, Software Engineer, with a picture of a cartoon cat holding a laptop">
 
 ### 👋 Hi, I’m Dr Jac and I love organisation in code, music, and weaving.
-### 👀 For over 17 years, I've enjoyed a music portfolio career as violinist, teacher, composer (PhD), and conductor.
-### 🌱 I’m an Associate Software Engineer enjoying working with and learning as much as possible about, Typescript, React, React Native, React Hook Form, Zod, HTML, Sass, CSS, Tailwind, Node.js, Next.js, Axios, Koa Router, Java, Spring Boot, Jenkins, Docker, Kubernetes, DynamoDB, PostgresSQL, Swagger, Postman, ESLint, Husky. 
+### 👀 I have over 18 months experience as an Associate Front-end Developer. I'm also an Accessibilty Ally and general encourager of communication.
+### 🎻 For over 17 years, I enjoyed a music portfolio career as violinist, teacher, composer (PhD), and conductor.
+### 🌱 I enjoy working with and learning about, Typescript, React, React Native, React Hook Form, Zod, HTML, Sass, CSS, Tailwind, Node.js, Next.js, Axios, Koa Router, Java, Spring Boot, Jenkins, Docker, Kubernetes, DynamoDB, PostgresSQL, Swagger, Postman, ESLint, Husky. 
 ### Update August 2024: now learning Python which rather than being the difficult third album is the pleasurable third language :-)
-### In my current role I am a committed accessibility ally.
+
 ### In my spare time I walk, weave, make music, and enjoy Scottish dancing.
 
 <br>
