@@ -9,30 +9,17 @@
 
 <br>
 
-### [Repository containing all Digital Futures Assessed Work](https://github.com/JacDoesJS/Digital-Futures)
-### [Pre-Academy projects](https://github.com/JacDoesJS/pre-Academy-work)
-### [Academy Full Stack Team Engineering Project](https://github.com/SE-group-3-group-project)
-(There are two READMEs for our team engineering project: one in the frontend and one in the backend folder.)
-<br>
-<br>
-
 #          "Am I testing my code, or is it testing me?"
 <br>
 
 #### 💞️ I’m looking to collaborate with other coders of any level.
-#### 📫 How to reach me https://jacdoesjavascript.wordpress.com  and jac.mckeigue@outlook.com
+#### 📫 How to reach me - jac.mckeigue@outlook.com
 <br>
 
 
 ### while training with Digital Futures Academy, I also took these additional courses
 <img src="explorer.png" width=200><img src="Agileexp.jpg" width=250>
 <br>
-### I also love doing the challenges on Codewars - https://www.codewars.com/users/JacMcK/badges/large
-<br>
-
-### latest upskilling certificates
-<img src="testcafe.jpg" width=400><img src="Jira.jpg" width=400>
-
 
 I made my banner with guidance from... https://leviarista.github.io/github-profile-header-generator/
 
