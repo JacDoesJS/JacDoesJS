@@ -6,7 +6,7 @@
 ### 🌱 I enjoy working with and learning about, Typescript, React, React Native, React Hook Form, Zod, HTML, Sass, CSS, Tailwind, Node.js, Next.js, Axios, Koa Router, Java, Spring Boot, Jenkins, Docker, Kubernetes, DynamoDB, PostgresSQL, Swagger, Postman, ESLint, Husky. 
 ### Update August 2024: now learning Python which rather than being the difficult third album is the pleasurable third language :-)
 
-### In my spare time I walk, weave, make music, and enjoy Scottish dancing.
+### In my spare time I walk, weave, make music, enjoy Scottish dancing - and write more code.
 
 <br>
 
