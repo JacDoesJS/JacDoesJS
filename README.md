@@ -7,6 +7,7 @@
 ### Update August 2024: now learning Python which rather than being the difficult third album is the pleasurable third language :-)
 
 ### In my spare time I walk, weave, make music, enjoy Scottish dancing - and write more code.
+<img src="https://www.codewars.com/users/JacMcK/badges/large">
 
 <br>
 
