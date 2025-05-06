@@ -15,13 +15,6 @@
 #### 📫 How to reach me - jac.mckeigue@outlook.com
 <br>
 
-
-### while training with Digital Futures Academy, I also took these additional courses
-<img src="explorer.png" width=200><img src="Agileexp.jpg" width=250>
-<br>
-
-I made my banner with guidance from... https://leviarista.github.io/github-profile-header-generator/
-
 <!---
 JacDoesJS/JacDoesJS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
