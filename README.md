@@ -1,5 +1,3 @@
-<img src="header-j.png" alt="Alt text" title="Header saying Hi I'm Dr Jac, Software Engineer, with a picture of a cartoon cat holding a laptop">
-
 ### 👋 Hi, I’m Dr Jac and I love organisation in code, music, and weaving.
 ### 👀 Front-end Developer, Accessibilty Advocate, and general encourager of communication, whether that's better documentation, more useful error messages, or just ditching the acronyms.
 ### 🎻 For over 17 years, I enjoyed a music portfolio career as violinist, teacher, composer (PhD), and conductor.
