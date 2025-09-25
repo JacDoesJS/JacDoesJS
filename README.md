@@ -11,9 +11,6 @@
 
 #          "Am I testing my code, or is it testing me?"
 <br>
-
-#### 💞️ I’m looking to collaborate with other coders of any level.
-#### 📫 How to reach me - jac.mckeigue@outlook.com
 <br>
 
 <!---
